@@ -1,0 +1,8 @@
+mkdir: It was used to create new directories such as; myfolder, folder1, folder2 and folder3.
+cd: It is used to switch to a differnt directory.
+cp: It was used to copy myfile.txt to the desktop.
+mv: It was used to move files to folder and used to rename files.
+code .: It is used to open file in vs code.
+ls: It is to check all the files in a folder.
+touch: It is used to create my files.
+nano: It was used to edit the txt written in commands.txt
